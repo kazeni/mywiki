@@ -11,15 +11,15 @@
 ## 专业技能
 
 * **IT 技能：**
-     * **Microsoft 平台：**Active Directory、System Center、Orchestrator、PowerShell 、Exchange、Lync
-     * **虚拟化：**VMware、Hyper-V、Citrix(XenDesktop)
-     * **操作系统：**Windows 、Linux 
-     * **硬件：**Dell 服务器、存储、机房运维
-     * **其他：**企业基础架构、公有云方向、技术招投标、MS SQL、网络基础（配置交换机、防火墙）
+     * Microsoft 平台：Active Directory、System Center、Orchestrator、PowerShell 、Exchange、Lync
+     * 虚拟化：VMware、Hyper-V、Citrix(XenDesktop)
+     * 操作系统：Windows 、Linux 
+     * 硬件：Dell 服务器、存储、机房运维
+     * 其他：企业基础架构、公有云方向、技术招投标、MS SQL、网络基础（配置交换机、防火墙）
 
-* **管理技能：**项目管理，项目文档，团队建设、沟通管理，资源优化、知识管理，ITIL，思维导图
+* 管理技能：项目管理，项目文档，团队建设、沟通管理，资源优化、知识管理，ITIL，思维导图
 
-* **软件技能：**MS Office、MS Project、MS Visio、Mind Manager、Photoshop、Zsh、Zabbix
+* 软件技能：MS Office、MS Project、MS Visio、Mind Manager、Photoshop、Zsh、Zabbix
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-##项目经验
+## 项目经验
 
 ### 1、国民技术股份有限公司 机房搬迁项目
 
@@ -151,7 +151,7 @@
 
 
 
-### **5、 深圳供电局 DCS 私有云服务管理平台项目 **
+### **5、 深圳供电局 DCS 私有云服务管理平台项目**
 
 ```
 在深圳供电局DCS 私有云服务管理平台项目中 担任实施工程师 & 项目协调 (2014.09 – 2015.06 ) 
